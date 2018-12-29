@@ -44,7 +44,6 @@ aPackageInfo = [
 
 	],
 	:windowsringfolderfiles = 	[
-		"bin/ring_internet.dll"
 	],
 	:linuxringfolderfiles = 	[
 
